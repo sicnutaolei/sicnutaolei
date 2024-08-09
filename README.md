@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Taolei</h1>
-嗨👋，我是陶雷
+<h1 align="center">嗨👋，我是陶雷</h1>
 
 <h3 align="center">A passionate frontend developer from China</h3>
 <h3 align="center">来自中国的充满热情的前端开发人员</h3>

@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sicnutaolei&label=Profile%20views&color=9f29d6&style=plastic" alt="sicnutaolei" /> </p>
 
-[![Latest blog post workflow](https://github.com/sicnutaolei/sicnutaolei/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/sicnutaolei/sicnutaolei/actions/workflows/blog-post-workflow.yml)
+[![Latest blog post workflow](https://github.com/sicnutaolei/sicnutaolei/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/sicnutaolei/sicnutaolei/actions/workflows/blog-post-workflow.yml)[![pages-build-deployment](https://github.com/sicnutaolei/sicnutaolei.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sicnutaolei/sicnutaolei.github.io/actions/workflows/pages/pages-build-deployment)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sicnutaolei" alt="sicnutaolei" /></a> </p>
 

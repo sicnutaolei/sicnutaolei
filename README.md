@@ -39,7 +39,8 @@
 - ⚡ Fun fact **I think I am funny**
 - ⚡ 有趣的事实 **我觉得我很有趣**
 
-### Blogs posts ### 博客帖子
+### Blogs posts 
+### 博客帖子
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

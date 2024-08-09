@@ -2,7 +2,7 @@
 <h1 align="center">嗨👋，我是陶雷</h1>
 
 <h3 align="center">A passionate frontend developer from China</h3>
-<h3 align="center">来自中国的充满热情的前端开发人员</h3>
+<h3 align="center">来自中国的 充满热情的 前端开发人员</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sicnutaolei&label=Profile%20views&color=9f29d6&style=plastic" alt="sicnutaolei" /></p>
 

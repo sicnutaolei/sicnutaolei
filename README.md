@@ -42,11 +42,11 @@
 ### Blogs posts 
 ### 博客帖子
 <!-- BLOG-POST-LIST:START -->
+- [重装后需要安装的软件——想到一点写一点](https://369m718617.goho.co/archives/1724851395038)
+- [HoneyView 免费好用的图片浏览器入门设置](https://369m718617.goho.co/archives/1724852825499)
 - [【化学】氯及化合物](https://369m718617.goho.co/archives/1723776404051)
 - [【化学】11号元素——钠](https://369m718617.goho.co/archives/1723705783604)
 - [【化学】氧化还原笔记](https://369m718617.goho.co/archives/1723692510177)
-- [【1Panel】定时重启 Docker 容器镜像任务](https://369m718617.goho.co/archives/1723615594016)
-- [Github + Hexo + Notion](https://369m718617.goho.co/archives/1722946906836)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Taolei</h1>
 <h1 align="center">嗨👋，我是陶雷</h1>
+<h1 align="center">こんにちは👋、私は陶雷です。</h1>
 
 <h3 align="center">A passionate frontend developer from China</h3>
 <h3 align="center">来自中国的 充满热情的 前端开发人员</h3>
+<h3 align="center">中国出身の熱意あふれるフロントエンド開発者</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sicnutaolei&label=Profile%20views&color=9f29d6&style=plastic" alt="sicnutaolei" /></p>
 

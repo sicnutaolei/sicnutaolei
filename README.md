@@ -26,8 +26,8 @@
 - 👨‍💻 All of my projects are available at [nothing](nothing)
 - 👨‍💻 我的所有项目都[无]（无）处获得
 
-- 📝 I regularly write articles on [https://369m718617.goho.co/](https://369m718617.goho.co/)
-- 📝 我经常在 [https://369m718617.goho.co/](https://369m718617.goho.co/) 上写文章
+- 📝 I regularly write articles on [nothing](nothing)
+- 📝 我经常不写文章
 
 - 💬 Ask me about **nothing**
 - 💬 问我什么都 **不行**

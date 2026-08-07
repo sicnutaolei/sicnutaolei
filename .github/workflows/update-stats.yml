@@ -1,0 +1,46 @@
+name: Update Profile Stats
+
+# 定时刷新个人主页的 stats.svg / trophies.svg
+on:
+  schedule:
+    # 每 6 小时运行一次（UTC 时间，即北京时间 +8 小时）
+    - cron: '0 */6 * * *'
+  # 允许在 Actions 页面手动触发
+  workflow_dispatch: {}
+
+# 仅授予推送代码所需的最小权限
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: pip install --quiet requests
+
+      - name: Generate stats SVG
+        env:
+          GH_USER: sicnutaolei
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_stats.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add stats.svg trophies.svg
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-refresh profile stats [skip ci]"
+            git push
+          fi

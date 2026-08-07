@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sicnutaolei/sicnutaolei/main/banner.svg" width="100%" alt="sicnutaolei banner" />
+</p>
+
 <h1 align="center">Hi there 👋 I'm sicnutaolei</h1>
 
 <div align="center">
@@ -5,8 +9,6 @@
 嗨 👋，我是 **sicnutaolei** ｜ こんにちは 👋、私は **sicnutaolei** です。
 
 一名来自中国的**前端开发爱好者**。
-
-<img src="https://komarev.com/ghpvc/?username=sicnutaolei&label=Profile%20views&color=9f29d6&style=plastic" alt="sicnutaolei" />
 
 </div>
 
@@ -56,16 +58,39 @@ android · c · docker · hexo · illustrator · javascript · nodejs · photosh
 
 ---
 
-## 🏆 成就 / Trophies
+## 🏆 成就 / Achievements
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sicnutaolei" alt="sicnutaolei" /></a>
+> 由 GitHub 真实数据生成的静态卡片，稳定显示、不依赖第三方服务。
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sicnutaolei/sicnutaolei/main/trophies.svg" width="80%" alt="Achievements" />
 </p>
 
 ## 📊 GitHub 数据 / GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sicnutaolei&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="sicnutaolei" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sicnutaolei/sicnutaolei/main/stats.svg" width="60%" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sicnutaolei&show_icons=true&theme=tokyonight&locale=en" alt="sicnutaolei" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sicnutaolei&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sicnutaolei&" alt="sicnutaolei" /></p>
+---
+
+## 👀 访客统计 / Visitor Count
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sicnutaolei&label=Profile%20Views&color=7f5af0&style=flat-square" alt="Profile views" />
+</p>
+
+---
+
+<details>
+  <summary>📈 更多 / More</summary>
+
+- 🌟 累计获得 Star：**1**
+- 🍴 主力语言：**Python**
+- 📅 入驻 GitHub：**2021-11-15**（约 4.7 年）
+
+</details>

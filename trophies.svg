@@ -1,24 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="676" height="268" viewBox="0 0 676 268" role="img" aria-label="Achievements">
-<rect width="676" height="268" rx="14" fill="#1a1b27" stroke="#3b3d52"/>
-<text x="22" y="34" font-family="Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Achievements</text>
-<rect x="22" y="46" width="200" height="92" rx="12" fill="#222533" stroke="#bb9af7" stroke-width="2"/>
-<rect x="22" y="46" width="6" height="92" rx="3" fill="#bb9af7"/>
-<text x="44" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a6accd">Repos</text>
-<text x="44" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#bb9af7">14</text>
-<rect x="238" y="46" width="200" height="92" rx="12" fill="#222533" stroke="#f7768e" stroke-width="2"/>
-<rect x="238" y="46" width="6" height="92" rx="3" fill="#f7768e"/>
-<text x="260" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a6accd">Stars</text>
-<text x="260" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#f7768e">1</text>
-<rect x="454" y="46" width="200" height="92" rx="12" fill="#222533" stroke="#f7768e" stroke-width="2"/>
-<rect x="454" y="46" width="6" height="92" rx="3" fill="#f7768e"/>
-<text x="476" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a6accd">Followers</text>
-<text x="476" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#f7768e">2</text>
-<rect x="22" y="154" width="200" height="92" rx="12" fill="#222533" stroke="#bb9af7" stroke-width="2"/>
-<rect x="22" y="154" width="6" height="92" rx="3" fill="#bb9af7"/>
-<text x="44" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a6accd">Years</text>
-<text x="44" y="220" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#bb9af7">4.7</text>
-<rect x="238" y="154" width="200" height="92" rx="12" fill="#222533" stroke="#bb9af7" stroke-width="2"/>
-<rect x="238" y="154" width="6" height="92" rx="3" fill="#bb9af7"/>
-<text x="260" y="188" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#a6accd">Top Lang</text>
-<text x="260" y="220" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#bb9af7">Python</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="514" height="264" viewBox="0 0 514 264" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e1e2e"/><stop offset="1" stop-color="#181825"/></linearGradient></defs>
+<rect x="0" y="0" width="514" height="264" rx="14" fill="url(#bg)"/>
+<text x="20" y="46" font-size="20" font-weight="700" fill="#89b4fa">Trophies</text>
+<rect x="20" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#9ba3ab" stroke-width="2"/>
+<text x="34" y="98" font-size="22" fill="#cdd6f4">📦</text>
+<text x="64" y="94" font-size="13" fill="#a6adc8">Repositories</text>
+<text x="64" y="118" font-size="15" font-weight="700" fill="#9ba3ab">14 · Silver</text>
+<rect x="182" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#b5793b" stroke-width="2"/>
+<text x="196" y="98" font-size="22" fill="#cdd6f4">⭐</text>
+<text x="226" y="94" font-size="13" fill="#a6adc8">Stars Earned</text>
+<text x="226" y="118" font-size="15" font-weight="700" fill="#b5793b">1 · Bronze</text>
+<rect x="344" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#b5793b" stroke-width="2"/>
+<text x="358" y="98" font-size="22" fill="#cdd6f4">👥</text>
+<text x="388" y="94" font-size="13" fill="#a6adc8">Followers</text>
+<text x="388" y="118" font-size="15" font-weight="700" fill="#b5793b">2 · Bronze</text>
+<rect x="20" y="160" width="150" height="84" rx="10" fill="#313244" stroke="#f9e2af" stroke-width="2"/>
+<text x="34" y="194" font-size="22" fill="#cdd6f4">📅</text>
+<text x="64" y="190" font-size="13" fill="#a6adc8">Years on GH</text>
+<text x="64" y="214" font-size="15" font-weight="700" fill="#f9e2af">4.7 · Gold</text>
+<rect x="182" y="160" width="150" height="84" rx="10" fill="#313244" stroke="#9ba3ab" stroke-width="2"/>
+<text x="196" y="194" font-size="22" fill="#cdd6f4">💻</text>
+<text x="226" y="190" font-size="13" fill="#a6adc8">Languages</text>
+<text x="226" y="214" font-size="15" font-weight="700" fill="#9ba3ab">3 · Silver</text>
+<rect x="344" y="160" width="150" height="84" rx="10" fill="#313244" stroke="#9ba3ab" stroke-width="2"/>
+<text x="358" y="194" font-size="22" fill="#cdd6f4">🥍</text>
+<text x="388" y="190" font-size="13" fill="#a6adc8">Forks</text>
+<text x="388" y="214" font-size="15" font-weight="700" fill="#9ba3ab">3 · Silver</text>
 </svg>

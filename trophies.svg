@@ -2,10 +2,10 @@
 <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e1e2e"/><stop offset="1" stop-color="#181825"/></linearGradient></defs>
 <rect x="0" y="0" width="514" height="264" rx="14" fill="url(#bg)"/>
 <text x="20" y="46" font-size="20" font-weight="700" fill="#89b4fa">Trophies</text>
-<rect x="20" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#9ba3ab" stroke-width="2"/>
+<rect x="20" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#f9e2af" stroke-width="2"/>
 <text x="34" y="98" font-size="22" fill="#cdd6f4">📦</text>
 <text x="64" y="94" font-size="13" fill="#a6adc8">Repositories</text>
-<text x="64" y="118" font-size="15" font-weight="700" fill="#9ba3ab">14 · Silver</text>
+<text x="64" y="118" font-size="15" font-weight="700" fill="#f9e2af">15 · Gold</text>
 <rect x="182" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#b5793b" stroke-width="2"/>
 <text x="196" y="98" font-size="22" fill="#cdd6f4">⭐</text>
 <text x="226" y="94" font-size="13" fill="#a6adc8">Stars Earned</text>

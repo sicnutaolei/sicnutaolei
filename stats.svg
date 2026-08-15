@@ -5,7 +5,7 @@
 <line x1="22" y1="60" x2="448" y2="60" stroke="#313244" stroke-width="1"/>
 <text x="22" y="52" font-size="18" fill="#cdd6f4">📦</text>
 <text x="52" y="52" font-size="15" fill="#a6adc8">Public Repos</text>
-<text x="448" y="52" font-size="16" font-weight="700" fill="#f9e2af" text-anchor="end">15</text>
+<text x="448" y="52" font-size="16" font-weight="700" fill="#f9e2af" text-anchor="end">16</text>
 <text x="22" y="86" font-size="18" fill="#cdd6f4">👥</text>
 <text x="52" y="86" font-size="15" fill="#a6adc8">Followers</text>
 <text x="448" y="86" font-size="16" font-weight="700" fill="#f9e2af" text-anchor="end">2</text>

@@ -5,7 +5,7 @@
 <rect x="20" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#f9e2af" stroke-width="2"/>
 <text x="34" y="98" font-size="22" fill="#cdd6f4">📦</text>
 <text x="64" y="94" font-size="13" fill="#a6adc8">Repositories</text>
-<text x="64" y="118" font-size="15" font-weight="700" fill="#f9e2af">20 · Gold</text>
+<text x="64" y="118" font-size="15" font-weight="700" fill="#f9e2af">21 · Gold</text>
 <rect x="182" y="64" width="150" height="84" rx="10" fill="#313244" stroke="#b5793b" stroke-width="2"/>
 <text x="196" y="98" font-size="22" fill="#cdd6f4">⭐</text>
 <text x="226" y="94" font-size="13" fill="#a6adc8">Stars Earned</text>
